@@ -11,9 +11,12 @@
 I’m a dedicated Full Stack Web Developer pursuing BSc in Computer Science at **American International University – Bangladesh**. I enjoy building web apps that solve real-world problems, and I'm constantly learning modern web technologies.
 
 ### 📌 Currently:
-- 📘 Exploring <img src="https://img.shields.io/badge/NEXT.JS-black?style=flat-square&logo=next.js&logoColor=white" />
+- 📘 Exploring
+- <img src="https://img.shields.io/badge/NEXT.JS-black?style=flat-square&logo=next.js&logoColor=white" />
+
 - 🛠️ Working on: **A Complete B2C Parcel Management & Delivery System**  
-  <img src="https://img.shields.io/badge/MERN_Stack-4E4E4E?style=flat-square&logo=react&logoColor=61DAFB" /> Building an intelligent parcel booking, tracking, and delivery system across all 64 districts of Bangladesh.
+  <img src="https://img.shields.io/badge/MERN_Stack-4E4E4E?style=flat-square&logo=react&logoColor=61DAFB" />
+  Building an intelligent parcel booking, tracking, and delivery system across all 64 districts of Bangladesh.
 
 ---
 
@@ -34,7 +37,7 @@ I’m a dedicated Full Stack Web Developer pursuing BSc in Computer Science at *
 
 <p align="center">
   <a href="mailto:apurbagoon1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/ApurbaGoon"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="[https://github.com/ApurbaGoon](https://x.com/apurbagoon1)"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
   <a href="https://linkedin.com/in/apurbagoon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
