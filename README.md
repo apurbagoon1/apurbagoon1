@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="Profile Banner.png" alt="Profile Banner"/>
 
-<h1 align="center">Hi there 👋, I'm Apurba Goon</h1>
+<h1 align="center">Hi there👋, I'm Apurba Goon</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
 ---
@@ -35,7 +35,7 @@ I’m a dedicated Full Stack Web Developer pursuing BSc in Computer Science at *
 
 <p align="center">
   <a href="mailto:apurbagoon1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="[https://github.com/ApurbaGoon](https://x.com/apurbagoon1)"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
+  <a href="https://twitter.com/apurbagoon"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/apurbagoon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
