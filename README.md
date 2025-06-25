@@ -11,11 +11,10 @@
 I’m a dedicated Full Stack Web Developer pursuing BSc in Computer Science at **American International University – Bangladesh**. I enjoy building web apps that solve real-world problems, and I'm constantly learning modern web technologies.
 
 ### 📌 Currently:
-- 📘 Exploring
-  <img src="https://img.shields.io/badge/NEXT.JS-black?style=flat-square&logo=next.js&logoColor=white" />
+- Exploring - <img src="https://img.shields.io/badge/NEXT.JS-black?style=flat-square&logo=next.js&logoColor=white" />
 
-- 🛠️ Working on: **A Complete B2C Parcel Management & Delivery System**  
-  Building an intelligent parcel booking, tracking, and delivery system across all 64 districts of Bangladesh. <img src="https://img.shields.io/badge/MERN_Stack-4E4E4E?style=flat-square&logo=react&logoColor=61DAFB" />
+- Working on: **A Complete B2C Parcel Management & Delivery System**  
+  Building an intelligent parcel booking, tracking, and delivery system across all 64 districts of Bangladesh! <img src="https://img.shields.io/badge/MERN_Stack-4E4E4E?style=flat-square&logo=react&logoColor=61DAFB" />
 
 ---
 
