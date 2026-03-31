@@ -2,7 +2,7 @@
 <img src="Profile Banner.png" alt="Profile Banner"/>
 
 <h1 align="center">Hi there👋, I'm Apurba Goon</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer </h3>
 
 ---
 
